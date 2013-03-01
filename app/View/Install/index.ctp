@@ -12,6 +12,14 @@
     <section class="installation">
 
     <div class="col left install-left">
+    <div class="install-block">
+
+                <h2>Welcome!</h2>
+
+                <div>
+
+                    <p>Please keep in mind this is not the official version of SpaceBukkit but a custom version.</p>
+                </div>
 
         <div class="install-inner">
 
@@ -62,7 +70,7 @@
         echo '</span>';
     else:
         echo '<span class="alert alert-error">';
-            echo __('Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP.');
+            echo __('Your version of PHP is too low. You need PHP 5.2.8 or higher to use SpaceBukkit.');
         echo '</span>';
         $pass = false;
     endif;
