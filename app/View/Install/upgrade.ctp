@@ -19,7 +19,7 @@
 
                 <h2>Upgrade</h2>
 
-                <h3>This page will guide you to upgrade your 1.1 database to 1.2</h3>
+                <h3>This page will guide you to upgrade your original SpaceBukkit database to this custom versions database system (You can not go back!)</h3>
 
                 <br>
                 <br>
@@ -47,8 +47,8 @@
 
                 
                 <div id="upgrade_selector">
-                    <h2>Do you want to upgrade from a 1.1 database?</h2>
-                    <p>Click yes if you had SpaceBukkit 1.1 installed before and you want to keep your servers, users and settings.</p>
+                    <h2>Do you want to upgrade from a Original SpaceBukkit database?</h2>
+                    <p>Click yes if you had the Original SpaceBukkit installed before and you want to keep your servers, users and settings.</p>
                     <a href="#" rel="yes" class="button icon approve">Yes!</a>
                     <a href="<?php echo $this->Html->url('/install/step2', true); ?>" rel="no" class="button icon remove">No!</a>
                 </div>
@@ -72,7 +72,7 @@
                       <div>
 
                         <input id="hostname" name="hostname" type="text" />
-                        <p class="help-block">This is usually localhost.</p>
+                        <p class="help-block">This is usually localhost.<br>If you can't get this to work please contact you'r hosting provider,<br>if any.</p>
 
                       </div>
 
@@ -89,7 +89,7 @@
                       <div>
 
                         <input id="database" name="database" type="text" />
-                        <p class="help-block">This is how you called the database where you're 1.1 installation resides.</p>
+                        <p class="help-block">This is how you called the database where you're Original SpaceBukkit installation resides.</p>
 
                       </div>
 
