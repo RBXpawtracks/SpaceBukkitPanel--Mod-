@@ -1,12 +1,5 @@
-# SpaceBukkit 1.2.1 - Web administration the awesome way!
+# SpaceBukkit (Unofficial Moddification)
 A powerful yet simple web panel for administering your Bukkit Minecraft servers with ease.
-http://spacebukkit.xereo.net
-
-## Update
-SpaceCP has been announced, a new, amazing administration panel that does everything except breakfast. Signup for beta on [http://spacecp.xereo.net](http://spacecp.xereo.net).
-
-## Update
-SpaceBukkit is a project developed aiming to bring an advanced and powerful web administration framework to Bukkit. What makes it unique is, on one hand, it's graphical user interface, and on the other hand some nifty features enlisted just below.
 
 ## Features
 - General
@@ -44,13 +37,8 @@ SpaceBukkit is a project developed aiming to bring an advanced and powerful web 
     * Schedules
     
 ## Credits
- * [Antariano](https://github.com/Antariano/) & [JamyDev](https://github.com/JamyDev/) - Web.
- * [NeatMonster](https://github.com/NeatMonster/) & [Drdanick](https://github.com/Drdanick/) - Java.
-
-## Links
-- Website: [http://spacebukkit.xereo.net](http://spacebukkit.xereo.net).
-- Forums: [http://spacebukkit.xereo.net/forum](http://spacebukkit.xereo.net/forum).
-- Wiki: [http://spacebukkit.xereo.net/wiki](http://spacebukkit.xereo.net/wiki).
+ * - Original Website: [http://spacebukkit.xereo.net](XeroNet (Original Code)).
+ * - Original Github: [https://github.com/SpaceDev/SpaceBukkitPanel](SpaceBukkit GitHub (Original Code))
  
 ## License
 Copyright 2012 SpaceDev team (SpaceBukkit and SpaceCP development team)
