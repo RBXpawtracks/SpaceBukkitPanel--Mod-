@@ -4,7 +4,7 @@
 
 <head>
 
-<title>Install | SpaceBukkit by XereoNet | Bukkit Web Administration</title>
+<title>Install | Bukkit Web Administration</title>
 
 
 
